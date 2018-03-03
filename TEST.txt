@@ -8,10 +8,8 @@
 8
 99
 10
-<<<<<<< HEAD
 pull 2
 1
 2
-=======
-pull 2
->>>>>>> parent of 3040e5e... Edit 1
+
+
